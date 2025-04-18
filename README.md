@@ -28,6 +28,10 @@ Currently, embeddings are stored in a local folder as `.npy` files. This can be 
 ### User Query
 Based on the user query, the most relevant document will be retrieved and passed to the LLM for Q&A.
 
+## 3. Notebook
+
+Uploaded the fine-tuning notebook to fine-tune the model with the help of Google Colab's GPU.
+
 ## Steps to Set Up the Project
 
 1. Install Poetry: `pip install poetry`
