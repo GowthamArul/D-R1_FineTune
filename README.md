@@ -40,3 +40,6 @@ Based on the user query, the most relevant document will be retrieved and passed
    - The `local_model` folder is to store the fine-tuned model for local inference.
 
 Pass the user query to the `/query` endpoint.
+
+<img src="img/WorkFlow.png" alt="Workflow Image" width="600"/>
+
