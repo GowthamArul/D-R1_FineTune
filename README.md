@@ -33,5 +33,6 @@ Based on the user query, the most matching document will be retrieved and passed
 1. `pip install poetry`
 2. `poetry install`
 3. Run `uvicorn main:app --reload` to initiate the FastAPI Swagger application.
+4. Download and copy the datas from the datasource link and paste it in `dataset` folder
 
 Pass the user query in the `/query` endpoint.
